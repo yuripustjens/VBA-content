@@ -670,7 +670,7 @@
 ###[Item Method](a65fedf6-aae5-64ef-e7d0-6bbc3d5b733c.md)
 ##[MailMergeFilterCriterion Object](2814890f-009b-b277-3ea4-c1f167a5e1c9.md)
 ###[Application Property](23438144-f791-8c76-d81c-aa40f592b948.md)
-###[Column Property](000b4b4c-73a1-ea9f-6f44-bc6eac15cb4b.md)
+###[Column Property](mailmergefiltercriterion.column-property-publisher.md)
 ###[CompareTo Property](6e81fa38-a5d7-8421-6722-a18c5e9a8229.md)
 ###[Comparison Property](ba815a39-35d6-803e-39c4-deba30646e66.md)
 ###[Conjunction Property](79365a25-97fd-a18f-7815-eaccf4c5bdca.md)
